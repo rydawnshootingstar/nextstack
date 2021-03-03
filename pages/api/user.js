@@ -7,6 +7,7 @@ const User = db.users;
 
 export default async (req, res) => {
 	console.log(req.body);
+	console.log(req);
 	// Recieved params from request
 	let { name, email } = req.body;
 	try {

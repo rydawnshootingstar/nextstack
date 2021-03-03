@@ -15,6 +15,7 @@
     "react-dom": "17.0.1",
     "recoil": "^0.1.2",
     "sequelize": "^6.5.0",
+    "styled-components": "^5.2.1",
     "validator": "^13.5.2"
   }
 }
